@@ -1,0 +1,12 @@
+/target/
+/bin
+/junit
+#.gitignore
+#.gradle/
+.idea/
+#build.gradle
+#gradle/
+#gradlew
+#gradlew.bat
+#settings.gradle
+#src/
